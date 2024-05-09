@@ -1,0 +1,21 @@
+/*css document*/
+
+body{
+    background-color: #7490a0;
+    margin: 2px;
+    font-size: 30px;
+}
+
+#res{
+    
+    margin: 10px 10px 10px 10px;
+    border: 1px solid black;
+    height: auto;
+}
+
+#cal{
+    
+    margin: 10px 10px 10px 10px;
+    border: 1px solid black;
+    height:auto;
+}
