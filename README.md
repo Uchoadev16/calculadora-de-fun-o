@@ -1,1 +1,1 @@
-# calculadora-de-fun-o
+# calculadora de função quadradica e afim
